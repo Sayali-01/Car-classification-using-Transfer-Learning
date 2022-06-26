@@ -4,5 +4,5 @@ This model aims to develop a car classification model for Intelligent Transporta
 2. Upload the dataset to your google drive.
 3. Mount your Drive to colab.
 4. Initially , Run the three models using Colab GPU ( VGG16 , Resnet50 and inception V3).
-5. Finally , Now run the Comparsion model to check for the comparson between the three models.
+5. Finally , Now run the Comparison model to check for the comparison between the three models.
 6. Happy Journey!!!!! 
